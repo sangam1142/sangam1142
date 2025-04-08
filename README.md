@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/piyushguptaa01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushguptaa01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/piyushrush01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="piyushrush01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sangam-patel-73694926b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/2509_sangam_23f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sangam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
